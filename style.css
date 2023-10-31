@@ -1,0 +1,7 @@
+html,body,#screen{
+    margin: 0px;
+    padding: 0px;
+}
+#screen{
+    image-rendering: pixelated;
+}
