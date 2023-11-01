@@ -1,8 +1,20 @@
 html,body,#screen{
     margin: 0px;
     padding: 0px;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
 }
 #screen{
     image-rendering: pixelated;
     image-rendering: crisp-edges;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 0;
+    margin: auto;
 }
